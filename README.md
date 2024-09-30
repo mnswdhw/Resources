@@ -5,6 +5,7 @@ Welcome to the resource collection repository! This repo aims to provide useful 
 ---
 
 ## 🧠 Machine Learning (ML)
+- [Karpathy Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
 ### 🗣️ Natural Language Processing (NLP)
 - [Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
